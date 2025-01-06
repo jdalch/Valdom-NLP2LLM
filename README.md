@@ -24,4 +24,17 @@ By the end of the course, the students should be able to:
 
 | Lecture | Date | Time | Room | Topic | Instructor |
 | ------- |----- | ---- | ---- | ----- | ---------- |
-| Lecture 1 | Jan 7 | 10h15-12h00 |  | NLP tasks, pre-processing | F. Jourdan |
+| Lecture 1 | Jan 7 | 10h15-12h00 | B206 | NLP tasks, pre-processing | F. Jourdan |
+| Lecture 2 | Jan 10 | 14h00-15h45 | B209 | Text vectorization | F. Jourdan |
+| Lecture 3 | Jan 20 | 10h15-12h00 | B206 | ML techniques for NLP | M. Mendil |
+| Lab Project 1 | Jan 20 | 14h00-15h45 | C305 |  | M. Mendil |
+| Lab Project 2 | Jan 20 | 16h15-18h00 | C305 |  | M. Mendil |
+| Lecture 4 | Jan 31 | 14h00-15h45 | B206 | DL techniques for NLP | J. Dalmau |
+| Lab Project 3 | Jan 31 | 16h15-18h00 | C305 |  | J. Dalmau |
+| Lecture 5 | Feb 5 | 8h00-9h45 | B206 | Transformers | J. Dalmau |
+| Lab Project 4 | Feb 5 | 10h15-12h00 | C305 |  | J. Dalmau |
+| Lecture 6 | Feb 12 | 14h00-15h45 | B206 | Feature spaces | J. Dalmau |
+| Lab Project 5 | Feb 12 | 16h15-18h00 | C304 |  | J. Dalmau |
+| Exam | Mar 3 | 14h00-15h45 | C302 | | |
+
+
