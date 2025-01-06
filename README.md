@@ -37,3 +37,17 @@ By the end of the course, the students should be able to:
 | Lecture 6 | Feb 12 | 14h00-15h45 | B206 (N7)  | Feature spaces | J. Dalmau |
 | Lab Project 5 | Feb 12 | 16h15-18h00 | C304 (N7)  |  | J. Dalmau |
 | Exam | Mar 3 | 14h00-15h45 | C302 (N7)  | | |
+
+## 5. Assessment
+The only assessment for this course will be a written exam which will take place on March 3, 14h00-15h45. The instructors will provide the students with sample exercises so that they can train themselves for the exam. The students will be allowed a single A4 two-sided handwritten sheet of paper with the notes they deem useful for the exam.
+
+Open-answer exercises will be evaluated according to the following criteria (if they apply):
+
+| Category | 😀😀😀  | 🙂🙂🙂 | 😟😟😟 | 😭😭😭 |
+| -------- | - | - | - | - |
+| Result | The result is correct | The result is incorrect, but not contradictory with the formulation | The result is contradictory with the formulation | The result is not given |
+| Justification |The justification is complete and flawless | The steps of the justification are the correct ones, but there are minor mistakes | Some steps of the justification are either missing or useless | No justification is given |
+| Completion | All the necessary details for the understanding of the solution are given | Many details for the understanding of the solution are given | A few details for the understanding of the solution are given | No details for the understanding of the solution are given |
+| Conciseness | No unnecessary details for the understanding of the solution are given | A few unnecessary details for the understanding of the solution are given | Many unnecessary details for the understanding of the solution are given | We are under the impression the solution applies to a totally different problem |
+|	Neatness | The solution is neat and properly organized. The steps of the justification as well as the answer are easily found | Some of the steps of the justification OR the solution are hard to find |	Some of the steps of the justification AND the solution are hard to find | The solution is totally chaotic, looks like a scratch paper, or there is no solution |
+
