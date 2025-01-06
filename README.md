@@ -7,6 +7,7 @@ This course presents the foundations of Deep Learning-based Natural Language Pro
 The lectures and lab projects will be presented by the following instructors:
 
 ### Fanny Jourdan
+Fanny Jourdan is a researcher at [IRT Saint Exupéry](https://www.irt-saintexupery.com/fr/) working on the [DEEL projet](https://www.deel.ai/). Her research interests include Explainability and Evaluation of Natural Language Processing algorithms.
 
 ### Mouhcine Mendil
 
@@ -24,4 +25,5 @@ By the end of the course, the students should be able to:
 
 | Lecture | Date | Time | Room | Topic | Instructor |
 | ------- |----- | ---- | ---- | ----- | ---------- |
-| Lecture 1 | Jan 7 | 10h15-12h00 |  | NLP tasks, pre-processing | F. Jourdan |
+| Lecture 1 | Jan 7 | 10h15-12h00 | B206 - N7 | NLP tasks, pre-processing | F. Jourdan |
+| Lecture 2 | Jan 10 | 14h00-15h45 | B209 - N7 | Text Vectorization | F. Jourdan |
