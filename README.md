@@ -23,5 +23,5 @@ By the end of the course, the students should be able to:
 ## 4. Program and Schedule
 
 | Lecture | Date | Time | Room | Topic | Instructor |
-|---------------------------------------------------|
+| ------- |----- | ---- | ---- | ----- | ---------- |
 | Lecture 1 | Jan 7 | 10h15-12h00 |  | NLP tasks, pre-processing | F. Jourdan |
