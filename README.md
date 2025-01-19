@@ -10,6 +10,7 @@ The lectures and lab projects will be presented by the following instructors:
 Fanny Jourdan is a researcher at [IRT Saint Exupéry](https://www.irt-saintexupery.com/fr/) working on the [DEEL projet](https://www.deel.ai/). Her research interests include Explainability and Evaluation of Natural Language Processing algorithms.
 
 ### Mouhcine Mendil
+Mouhcine Mendil is a research engineer at [IRT Saint Exupéry](https://www.irt-saintexupery.com/fr/)  where he contributes to various projects, including [DEEL](https://www.deel.ai/) and [Hecate](https://hecate-project.eu/). His work focuses on Physics-Informed Machine Learning and Uncertainty Quantification.
 
 ### Joseba Dalmau
 Joseba Dalmau is a research engineer at [IRT Saint Exupéry](https://www.irt-saintexupery.com/fr/) working on the [DEEL projet](https://www.deel.ai/) and a part-time associate lecturer at [INSA Toulouse](https://www.insa-toulouse.fr/). His research interests include Uncertainty Quantification for Machine Learning and Deep Learning models and Anomaly and Out-of-Distribution data detection.
